@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+header {
+  width: 100%;
+  height: 100px;
+  padding: 26px 100px;
+}
+.logo {
+  vertical-align: middle;
+}
+.nav {
+  display: inline-block;
+  margin-left: 195px;
+  vertical-align: middle;
+}
+.list-item {
+  display: inline-block;
+  margin-left: 50px;
+  color: #696969;
+  font-size: 18px;
+}
+.book-now-btn,
+.Discover-now-btn {
+  background-color: #ff5403;
+  font-size: 18px;
+  color: #ffffff;
+}
+.book-now-btn {
+  padding: 13px 50px;
+  margin-left: 195px;
+}
+.Discover-now-btn {
+  display: inline-block;
+  padding: 22px 64px;
+  margin-left: 0px;
+}
+.banner_bg_conteiner {
+  width: 100%;
+  height: 722px;
+  background-image: url(../images/banner_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  text-align: center;
+  padding-top: 190px;
+}
+.title {
+  font-size: 96px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 115px;
+}
+.desc {
+  font-size: 20px;
+  color: #fff;
+  margin: 5px 0px 79px 0px;
+}
+.four-potos {
+  width: 1312px;
+  margin: 100px auto 120px auto;
+}
+.banner-place {
+  width: 1300px;
+  height: 1200px;
+  text-align: center;
+}
+.seqtion-title {
+  display: inline-block;
+  font-size: 36px;
+  color: #041562;
+  line-height: 43px;
+}
+.place-desc {
+  font-size: 18px;
+  color: #626262;
+  line-height: 22px;
+  margin-top: 20px;
+  font-weight: 300;
+}
+.poto-sea {
+  width: 631;
+  height: 415;
+  margin-top: 75px;
+}
+.discover-more-btn {
+  display: inline-block;
+  background-color: #ff5403;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 22px 64px;
+  margin-top: 97px;
+  text-align: center;
+}
+
+.top-hotels {
+  width: 1312px;
+  margin: 100px auto 120px auto;
+}
+.title-hotel {
+  font-size: 36px;
+  color: #041562;
+  text-align: center;
+}
+.hotel-desc {
+  text-align: center;
+  font-size: 18px;
+  color: #626262;
+  margin-top: 20px;
+}
+.card {
+  width: 404px;
+  margin-top: 75px;
+  display: inline-block;
+}
+.card-title {
+  font-size: 26px;
+  color: #000000;
+  margin: 40px 0px 25px 0px;
+}
+.reviews img {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.reviews p {
+  font-size: 18px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 4px;
+  font-weight: 300;
+}
+.location {
+  font-size: 18px;
+  color: #626262;
+  font-weight: 300;
+  margin: 10px 0px;
+  line-height: 170%;
+}
+.price {
+  font-size: 18px;
+  color: #626262;
+  font-weight: 300;
+}
+.pr {
+  color: #da1212;
+}
+.middle {
+  margin: 0px 45px;
+}
+.foot-information {
+  width: 100%;
+  height: 480px;
+  background-color: #19224d;
+  padding: 108px 100px 80px 100px;
+}
+.foot-logo {
+  display: inline-block;
+  width: 337px;
+  height: 249px;
+  margin-right: 158px;
+}
+.discover {
+  display: inline-block;
+  width: 314px;
+  height: 266px;
+  margin-left: 158px;
+}
+.card-destination {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 59px;
+}
+.discover-list {
+  font-size: 22px;
+  color: #ffffff;
+  line-height: 21px;
+  margin-top: 15px;
+}
+
+.discover-2 {
+  display: inline-block;
+  width: 344px;
+  height: 250px;
+  margin-left: 158px;
+}
+.card-contact {
+  font-size: 24px;
+  color: #ffffff;
+  line-height: 29px;
+  margin-bottom: 30px;
+}
+.us-list {
+  font-size: 18px;
+  color: #fff;
+  margin-top: 10px;
+}
+.social-icons {
+  width: 150px;
+  height: 70px;
+  margin-top: 23px;
+}
+.media {
+  font-size: 18px;
+  color: #ff5403;
+  margin-bottom: 8px;
+}
+.copy {
+  width: 100%;
+  height: 65px;
+  background-color: #000b3e;
+}
+.text-trevel {
+  font-size: 16px;
+  color: #c4c4c4;
+  line-height: 19px;
+  text-align: center;
+}
